@@ -1,0 +1,28 @@
+.notesBox {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.notesBoxTitle {
+    display: flex;
+
+}
+.notesButtonUpload {
+    color: green;
+    font-size: 25px;
+    background-color: white;
+    border: 0;
+    margin-left: 50px;
+}
+.noteButton {
+    border: 0;
+    background-color: white;
+    font-size: 20px;
+}
+.noteBoxNotes {
+    display: flex;
+    flex-wrap: wrap;
+}
+.noteSpan {
+    border: 1px black solid;
+}
